@@ -30,4 +30,4 @@ Aplicamos medidas técnicas e organizacionais para proteger os dados, incluindo 
 Você pode solicitar acesso, correção ou exclusão dos seus dados.
 
 ## Contato
-Para solicitações e dúvidas: contato@tanatela.app
+Para solicitações e dúvidas: brucesistemasltda@gmail.com
